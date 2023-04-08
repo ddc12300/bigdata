@@ -1,7 +1,3 @@
-No he encontrado errores ortográficos significativos en el texto, pero he realizado algunas mejoras en la puntuación y la redacción para una mayor claridad:
-
----
-
 ## Análisis y visualización de Big Data
 
 Lenguaje de programación -> Python
