@@ -1,40 +1,4 @@
 
-index
-
-```python
-
-llista = ["adria", "carla", "joan", "pere"]  
-  
-nom = "joan"  
-  
-if nom in llista:  
-    print("si")  
-    position = llista.index(nom)  
-    print(position)  
-else:  
-    print("no")
-
-```
-
-
-
-set() y len()
-
-```python
-llista = ["adria", "carla", "joan", "pere", "pere", "joan"]  
-  
-valors_unics = set(llista)  
-print(len(valors_unics))
-
-```
-
-count()
-
-
----
-
-Ejercicio
-
 ## Ejercicio A (Easy mode)
 
 La UAB acaba de celebrar sus jornadas de puertas abiertas y los futuros estudiantes han acudido a las sesiones informativas. Cada vez que una persona entra en una sesión se anota su nombre. Alguien ha juntado todos los nombres en una sola lista... ¿Puedes sacar información útil de este listado?
@@ -167,4 +131,32 @@ alumnes = ["adria","agnès","josep","rafa","cristina","Gemma","Eduard"]
 4.  calcula e imprime la nota más baja junto al nombre del alumno.
 
 *Este ejercicio exige buscar soluciones en StackOverflow o cualquier otra fuente.
+
+
+```python
+notes = ["5", "3", "7", "8", "9.5", "4", "6.2"]  
+alumnes = ["adria", "agnès", "josep", "rafa", "cristina", "Gemma", "Eduard"]  
+  
+# Imprime la nota de cada alumno  
+for nota in range(len(alumnes)):  
+    print("El alumno/a", alumnes[i], "ha obtenido un", notes[i])  
+  
+# Convierte las notas en una lista de números  
+notes = [float(n) for n in notes]  
+  
+# Calcula e imprime la nota promedio del aula  
+average_note = sum(notes) / len(notes)  
+print("La nota promedio del aula es:", round(average_note, 1))  
+  
+# Calcula e imprime la nota más alta junto al nombre del alumno  
+max_note = max(notes)  
+max_note_index = notes.index(max_note)  
+print("La nota más alta es un", max_note, "obtenida por el alumno/a", alumnes[max_note_index])  
+  
+# Calcula e imprime la nota más baja junto al nombre del alumno  
+min_note = min(notes)  
+min_note_index = notes.index(min_note)  
+print("La nota más baja es un", min_note, "obtenida por el alumno/a", alumnes[min_note_index])
+
+```
 
