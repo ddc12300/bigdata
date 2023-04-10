@@ -63,7 +63,7 @@ import datetime
 import time
 
 # Inicializa la API de Twitch
-twitch = Twitch('jhbumt1og6i9nsn3uwfvfxh2xwykw7', 'gzfkz2k4jxq94bdhdc4n5oydpjmjlc')
+twitch = Twitch('KEY', 'KEY')
 now = datetime.datetime.now()
 
 # Lista de idiomas para buscar streams
