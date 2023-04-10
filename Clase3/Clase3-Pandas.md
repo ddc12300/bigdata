@@ -252,6 +252,7 @@ print(len(data))
 ```
 
 
+Escogemos las columnas que nos interesan y las exportamos en un nuevo csv:
 
 ```python
 import json
@@ -287,42 +288,53 @@ df.to_csv("temperaturas.csv", index=False, decimal=",")
 
 ---
 
-```
+Creamos una muestra del dataset para en caso de que sea muy grande:
 
-import json  
-  
-import pandas as pd  
-  
-f = open('medidas.json')  
-data = json.load(f)  
-llista_dades = []  
-  
-  
-print(len(data))  
-  
-for d in data:  
-    temp = d["temperatura"]  
-    pres = d["presion"]  
-    date = d["fecha"]  
-    tuple = (temp,pres,date)  
-    llista_dades.append(tuple)  
-  
-  
-df = pd.DataFrame(llista_dades)  
-  
-print(df)  
-  
-df.to_csv("temperaturas.csv", index=False, decimal=",")  
-  
-sample = df.sample(frac=0.1)  
-sample_2 = sample.sample(frac=0.1)  
+```python
+import json
+import pandas as pd
+
+# Abre el archivo 'medidas.json' en modo lectura y carga su contenido en la variable 'data'
+f = open('medidas.json')
+data = json.load(f)
+llista_dades = []
+
+# Imprime la cantidad de elementos en el objeto JSON 'data'
+print(len(data))
+
+# Recorre cada elemento en 'data' y extrae sus atributos "temperatura", "presion" y "fecha" en una tupla
+for d in data:
+    temp = d["temperatura"]
+    pres = d["presion"]
+    date = d["fecha"]
+    tuple = (temp, pres, date)
+    # Añade la tupla a la lista 'llista_dades'
+    llista_dades.append(tuple)
+
+# Convierte la lista 'llista_dades' en un DataFrame de pandas
+df = pd.DataFrame(llista_dades)
+
+# Imprime el DataFrame 'df'
+print(df)
+
+# Guarda el DataFrame 'df' en un archivo CSV llamado "temperaturas.csv" sin incluir los índices y usando coma como decimal
+df.to_csv("temperaturas.csv", index=False, decimal=",")
+
+# Crea una muestra aleatoria del 10% de los datos en el DataFrame 'df' y guarda el resultado en 'sample'
+sample = df.sample(frac=0.1)
+
+# Crea una muestra aleatoria del 10% de los datos en el DataFrame 'sample' y guarda el resultado en 'sample_2'
+sample_2 = sample.sample(frac=0.1)
+
+# Guarda el DataFrame 'sample_2' en un archivo CSV llamado "sample.csv"
 sample_2.to_csv("sample.csv")
-
 ```
+
 
 
 ----
 
+Ejercicio 3 completo:
 
 ```python
 import json
