@@ -51,4 +51,10 @@ Para distribuir los streamers por volumenes de audiencia y horas realizadas los 
 
 ![ej5](https://user-images.githubusercontent.com/116378134/232343593-68151b7a-b6e2-474c-9ada-d30aa4009c2b.PNG)
 
+La evolución de la desviación estándar en el volumen de espectadores puede analizarse examinando las capturas tomadas en diferentes momentos del período en estudio. Comparando la desviación estándar mínima de 49, que se registró el 23/02, con la máxima de 8329, ocurrida el 26/02, podemos identificar las fluctuaciones en la dispersión de la audiencia a lo largo del tiempo.
+
+5En términos de polarización de audiencias, los momentos en los que las audiencias están más polarizadas se corresponden con los días en que la desviación estándar es más alta. Por ejemplo, el 26/02, con una desviación estándar de 8329, indica que hubo una gran variabilidad en el volumen de espectadores, lo que sugiere que ciertos eventos o streamers atrajeron a una cantidad significativamente mayor de espectadores en comparación con otros. Esto puede deberse a eventos especiales, como la participación de Ronaldinho Gaúcho en la "Kings League" o anuncios importantes por parte de streamers populares.
+
+Por otro lado, los momentos en los que la distribución de audiencia es más uniforme coinciden con aquellos días en que la desviación estándar es más baja. En este caso, el 23/02, con una desviación estándar de 49, muestra una menor variabilidad en el volumen de espectadores, lo que indica que la audiencia estaba más equilibrada entre los diferentes streamers y contenidos ofrecidos en la plataforma.
+
 
