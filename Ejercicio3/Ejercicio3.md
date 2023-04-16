@@ -33,7 +33,7 @@ Por otro lado tenemos que el juego con más horas emitidas es Fortnite, es norma
 
 ![ej3](https://user-images.githubusercontent.com/116378134/232344538-fffdc906-97a2-4b72-927d-8deec6b7f9fa.PNG)
 
-A excepción de sports que ha dado picos en los días que se han realizado eventos de la kings league, el resto de categorias vemos que han sido relativamente estables en cuanto a viewers a lo largo del mes.
+La mayoría de las categorías muestran una tendencia estable en cuanto a espectadores, siendo los picos observados el resultado de eventos específicos realizados para dichas categorías. Cabe destacar nuevamente la categoría Sports, donde se aprecian picos en distintas fechas correspondientes a las emisiones de la Kings League, a partir de esto podemos concluir que no que no existen otros streamings de magnitud similar en esta categoría durante los días en que no se lleva a cabo la Kings League.
 
 
 ## 4. ¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?
