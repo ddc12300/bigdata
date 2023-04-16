@@ -14,8 +14,17 @@ Además sucedieron en estos mismo dias otros sucesos como la presentación de la
 
 ![ej2](https://user-images.githubusercontent.com/116378134/232343580-a8244379-3bc9-4064-9463-c7d0d4f84fa2.PNG)
 
+En el primer grafico de barras observamos que las categorias más vistas según cantidad de viewers son las siguientes:
+
+- Just Chatting: Es la categoría más popular entre los espectadores debido a su naturaleza. Los streamers pueden participar en conversaciones con sus seguidores y abordar una amplia variedad de temas, desde noticias de actualidad hasta experiencias personales. Esta interacción en tiempo real permite a los usuarios sentirse más conectados con los creadores de contenido y disfrutar de una experiencia más personalizada.
+- Sports: Habria que analizar si otros meses esta categoria dispone de tanta audiencia, ya que para este mes, como he comentado en el ejercicio 1 se dio a cabo varios eventos de la Kings League lo que ha producido que esta sea la segunda caterogia más vista.
+- League of legends y minecraft: Desde los inicios de twitch siempre han sido los videojuegos con mayor cantidad de espectadores.
+- Hogwarts Legacy: debido al estreno del juego se ha dado un boom en este en las transmisiones de twich que poco a poco ha ido descendiendo.
+
 
 ![ej2-2](https://user-images.githubusercontent.com/116378134/232344217-83661102-86ed-4ae9-9f7c-ab03f9f5e28a.PNG)
+
+Por otro lado tenemos que el juego con más horas emitidas es Fortnite, es normal ya que este tiene una popularidad global, es muy facil acceder a este desde cualquier plataforma.
 
 3. ¿Como han evolucionado (captura a captura) estas categorias a lo largo del mes?
 
