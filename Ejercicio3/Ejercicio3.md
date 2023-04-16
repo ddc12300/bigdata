@@ -38,16 +38,19 @@ A excepción de sports que ha dado picos en los días que se han realizado event
 
 4. ¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?
 
-Para distribuir los streamers por volumenes de audiencia y horas realizadas los clasifique según audiencia: baja < 10000 viewers, media < 50000 viewers y alta todo lo demás. Y por horas < 10 horas como pocas, menos de 50 moderadas y todo lo demás muchas. A partir de esto cree 3 graficos de dispersión:
+Para distribuir los streamers por volumenes de audiencia y horas realizadas los clasifique según audiencia: baja < 10000 viewers, media < 50000 viewers y alta todo lo demás. Y por horas < 10 horas como pocas, menos de 50 moderadas y todo lo demás muchas. A partir de esto cree 3 graficos de dispersión según audiencia alta media y baja, añadiendo colores según las horas stremeadas para ver si se encuentra una relación entre horas stremeadas y cantidad de audiencia:
 
 ![ejj4-1](https://user-images.githubusercontent.com/116378134/232347423-5161fd28-8107-4355-aa95-120334656210.PNG)
 
+Primero para una audiencia alta observamos que los streamers con una cantidad mayor de views no siempre va relacionado con las horas stremeadas,a destacar de nuevo el usuario kingsleague ya que con una cantidad de horas moderada se encuentra el número 1. Por otro lado con muchas horas encontramos streamers conocidos como Ibai, Illojuan, elxokas, entre otros. Más o menos con la misma cantidad de viewers encontramos a otros como Rubius o auronplay que pese a stremear de forma moderada disponen de una gran audidencia. Por último destacar por ejemplo viviendoenlacalle, un streamer famosos por realizar irl de su vida como indica su nombre en la calle, podriamos decir que su gran cantidad de audiencia podria tener algo de relación con la gran cantidad de horas que emite. En este grafico de audiencia alta apenas se observan streamers con pocas horas emitidas.
 
 ![ejj4-2](https://user-images.githubusercontent.com/116378134/232347428-81f89404-bc56-4203-851e-ed7b383425ec.PNG)
 
+Por otro lado con una audiencia media observamos diferentes tendencias, no se observa que haya una relación significativa entre viewers y cantidad de horas emitidas, observamos streamers con pocas horas superando a muchos con moderadas y muchas, en este caso ya se empieza a ver una tendencia con streamers con más horas streameadas, pese que no significa que tengan más viewers.
 
 ![ejj4-3](https://user-images.githubusercontent.com/116378134/232347437-2ec3782f-5440-490f-b2a6-cad0871a636f.PNG)
 
+Por ultimo en el grafico de audiencia baja vemos 3 columnas completas a la izquierda del grafico, cosa que nos da a entender que en principio no existe una relación de horas con cantidad de viewers, pero si nos fijamos en como transcurre el resto del grafico vemos una linea ascendiente, llegando sobre los 3k viewers y las 650 horas, sobre esto podemos deducir que para audiencias bajas la cantidad de horas emitidas puede llegar a influir algo.
 
 5. ¿Cuál ha sido la evolución (captura a captura) de la desviación estándar en el volúmen de espectadores? ¿En qué momentos las audiencias se encuentran más polarizadas y en qué momentos la distribución es más uniforme?
 
