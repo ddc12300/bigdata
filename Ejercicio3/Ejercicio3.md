@@ -1,3 +1,6 @@
+# Ejercicio de análisis de datos: Febrero en Twitch
+
+Para realizar este ejercicio se han extraido datos de la api de twitch del mes de febrero.
 
 1.  ¿Cuál ha sido la evolución de espectadores (captura a captura) durante el periodo?
 
@@ -37,13 +40,13 @@ A excepción de sports que ha dado picos en los días que se han realizado event
 
 Para distribuir los streamers por volumenes de audiencia y horas realizadas los clasifique según audiencia: baja < 10000 viewers, media < 50000 viewers y alta todo lo demás. Y por horas < 10 horas como pocas, menos de 50 moderadas y todo lo demás muchas. A partir de esto cree 3 graficos de dispersión:
 
-![horasbajasej4](https://user-images.githubusercontent.com/116378134/232345297-517be703-ab01-4af9-b470-4edff023dbb6.PNG)
-
-![horasmoderadasej4](https://user-images.githubusercontent.com/116378134/232345317-88640cd6-f0a8-4b9c-86cf-4807143b37c7.PNG)
-
-![horasmuchasej4](https://user-images.githubusercontent.com/116378134/232345323-02f660e7-7507-4939-889f-41942c411a59.PNG)
+![ejj4-1](https://user-images.githubusercontent.com/116378134/232347423-5161fd28-8107-4355-aa95-120334656210.PNG)
 
 
+![ejj4-2](https://user-images.githubusercontent.com/116378134/232347428-81f89404-bc56-4203-851e-ed7b383425ec.PNG)
+
+
+![ejj4-3](https://user-images.githubusercontent.com/116378134/232347437-2ec3782f-5440-490f-b2a6-cad0871a636f.PNG)
 
 
 5. ¿Cuál ha sido la evolución (captura a captura) de la desviación estándar en el volúmen de espectadores? ¿En qué momentos las audiencias se encuentran más polarizadas y en qué momentos la distribución es más uniforme?
