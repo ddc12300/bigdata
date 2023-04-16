@@ -19,8 +19,9 @@ Además sucedieron en estos mismo dias otros sucesos como la presentación de la
 
 3. ¿Como han evolucionado (captura a captura) estas categorias a lo largo del mes?
 
+![ej3](https://user-images.githubusercontent.com/116378134/232344538-fffdc906-97a2-4b72-927d-8deec6b7f9fa.PNG)
 
-![ej3](https://user-images.githubusercontent.com/116378134/232343589-47551d12-cb8a-450b-81b3-7f67c2e1a235.PNG)
+
 
 4. ¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?
 
