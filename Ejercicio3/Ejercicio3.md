@@ -38,7 +38,19 @@ La mayoría de las categorías muestran una tendencia estable en cuanto a espect
 
 ## 4. ¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?
 
-Para distribuir los streamers por volumenes de audiencia y horas realizadas los clasifique según audiencia: baja < 10000 viewers, media < 50000 viewers y alta todo lo demás. Y por horas < 10 horas como pocas, menos de 50 moderadas y todo lo demás muchas. A partir de esto cree 3 graficos de dispersión según audiencia alta media y baja, añadiendo colores según las horas stremeadas para ver si se encuentra una relación entre horas stremeadas y cantidad de audiencia:
+Para distribuir los streamers por volumenes de audiencia y horas realizadas los clasifique según:
+
+1. Audiencia:
+- Baja: menos de 10,000 espectadores. Este rango incluye a los streamers con una audiencia relativamente pequeña, lo que puede indicar que están comenzando en la plataforma o que su contenido está dirigido a nichos específicos.
+- Media: entre 10,000 y 50,000 espectadores. Los streamers en este rango tienen una audiencia significativa y son considerados populares en la plataforma, pero aún no han alcanzado el estatus de superestrella.
+- Alta: más de 50,000 espectadores. Este rango se reserva para los streamers más exitosos y reconocidos en la plataforma, que han logrado captar la atención de una gran cantidad de usuarios.
+
+2. Horas de transmisión:
+- Pocas: menos de 10 horas. Los streamers en este rango pueden ser ocasionales, transmitiendo sólo en momentos específicos o durante eventos particulares.
+- Moderadas: entre 10 y 50 horas. Este rango incluye a los streamers que dedican un tiempo considerable a la plataforma, lo que puede indicar que están comprometidos con sus seguidores y buscan mantener su audiencia.
+- Muchas: más de 50 horas. Los streamers en este rango pasan una gran cantidad de tiempo en la plataforma, lo que puede reflejar una dedicación a tiempo completo al streaming o un enfoque en el crecimiento y la consolidación de su audiencia.
+
+Estas clasificaciones permiten analizar y comparar a los streamers de manera más efectiva, facilitando la identificación de tendencias y patrones en relación con el volumen de audiencia y las horas de transmisión. A partir de esto cree 3 graficos de dispersión según audiencia alta media y baja, añadiendo colores según las horas stremeadas para ver si se encuentra una relación entre horas stremeadas y cantidad de audiencia:
 
 ![ejj4-1](https://user-images.githubusercontent.com/116378134/232347423-5161fd28-8107-4355-aa95-120334656210.PNG)
 
