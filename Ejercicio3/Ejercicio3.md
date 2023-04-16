@@ -19,7 +19,7 @@ Además sucedieron en estos mismo dias otros sucesos como la presentación de la
 
 En el primer grafico de barras observamos que las categorias más vistas según cantidad de viewers son las siguientes:
 
-- Just Chatting: Es la categoría más popular entre los espectadores debido a su naturaleza. Los streamers pueden participar en conversaciones con sus seguidores y abordar una amplia variedad de temas, desde noticias de actualidad hasta experiencias personales. Esta interacción en tiempo real permite a los usuarios sentirse más conectados con los creadores de contenido y disfrutar de una experiencia más personalizada.
+- Just Chatting: Esta categoría es la favorita de los espectadores debido a su versatilidad. Los streamers pueden interactuar con sus seguidores y tratar diversos temas, desde noticias hasta experiencias personales. La interacción en tiempo real permite a los usuarios sentirse más conectados con los creadores de contenido y disfrutar de una experiencia más personalizada.
 - Sports: Habria que analizar si otros meses esta categoria dispone de tanta audiencia, ya que para este mes, como he comentado en el ejercicio 1 se dio a cabo varios eventos de la Kings League lo que ha producido que esta sea la segunda caterogia más vista.
 - League of legends y Minecraft: Estos videojuegos han sido siempre los más populares en Twitch desde sus inicios, destacar que son los juegos con más videojugadores por lo que es normal que existe una relación con la cantidad de viewers.
 - Hogwarts Legacy: Debido al lanzamiento del juego, las transmisiones en Twitch tuvieron un aumento significativo, que luego fue disminuyendo.
