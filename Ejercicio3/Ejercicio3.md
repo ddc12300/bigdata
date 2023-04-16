@@ -24,15 +24,25 @@ En el primer grafico de barras observamos que las categorias más vistas según 
 
 ![ej2-2](https://user-images.githubusercontent.com/116378134/232344217-83661102-86ed-4ae9-9f7c-ab03f9f5e28a.PNG)
 
-Por otro lado tenemos que el juego con más horas emitidas es Fortnite, es normal ya que este tiene una popularidad global, es muy facil acceder a este desde cualquier plataforma.
+Por otro lado tenemos que el juego con más horas emitidas es Fortnite, es normal ya que este tiene una popularidad global, es muy facil acceder a este desde cualquier plataforma. Si nos fijamos en el ranking no encontramos la categoria de sports, esto nos hace pensar que su gran cantidad de viewers viene dada dada principalmente de la Kings League.
 
 3. ¿Como han evolucionado (captura a captura) estas categorias a lo largo del mes?
 
 ![ej3](https://user-images.githubusercontent.com/116378134/232344538-fffdc906-97a2-4b72-927d-8deec6b7f9fa.PNG)
 
+A excepción de sports que ha dado picos en los días que se han realizado eventos de la kings league, el resto de categorias vemos que han sido relativamente estables en cuanto a viewers a lo largo del mes.
 
 
 4. ¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?
+
+Para distribuir los streamers por volumenes de audiencia y horas realizadas los clasifique según audiencia: baja < 10000 viewers, media < 50000 viewers y alta todo lo demás. Y por horas < 10 horas como pocas, menos de 50 moderadas y todo lo demás muchas. A partir de esto cree 3 graficos de dispersión:
+
+![horasbajasej4](https://user-images.githubusercontent.com/116378134/232345297-517be703-ab01-4af9-b470-4edff023dbb6.PNG)
+
+![horasmoderadasej4](https://user-images.githubusercontent.com/116378134/232345317-88640cd6-f0a8-4b9c-86cf-4807143b37c7.PNG)
+
+![horasmuchasej4](https://user-images.githubusercontent.com/116378134/232345323-02f660e7-7507-4939-889f-41942c411a59.PNG)
+
 
 
 
@@ -40,4 +50,5 @@ Por otro lado tenemos que el juego con más horas emitidas es Fortnite, es norma
 
 
 ![ej5](https://user-images.githubusercontent.com/116378134/232343593-68151b7a-b6e2-474c-9ada-d30aa4009c2b.PNG)
+
 
