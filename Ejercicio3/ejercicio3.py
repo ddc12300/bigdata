@@ -59,7 +59,7 @@ df3 = pd.read_csv("feb_23_es_simple.csv", sep="\t", usecols=["captured_at", "gam
 # cambio tipo de dato captured_at de nuevo
 df3["captured_at"] = pd.to_datetime(df3["captured_at"])
 
-# Identifico las 5 categorías con más espectadores
+# Extraigo las 5 categorías con más espectadores a partir del df del ejercicio 2
 top5_categorias_viewers = categorias_mas_vistas_df.nlargest(5, "total_viewers")["game_name"].tolist()
 
 # Filtro el dataframe para incluir solo las 5 categorías con más espectadores
