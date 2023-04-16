@@ -2,7 +2,7 @@
 
 Para realizar este ejercicio se han extraido datos de la api de twitch del mes de febrero.
 
-1.  ¿Cuál ha sido la evolución de espectadores (captura a captura) durante el periodo?
+## 1.  ¿Cuál ha sido la evolución de espectadores (captura a captura) durante el periodo?
 
 ![ej1](https://user-images.githubusercontent.com/116378134/232343563-4efd29cb-3b30-4096-bfbf-a466a6f22f2b.PNG)
 
@@ -13,7 +13,7 @@ Uno de los principales motivos de estos picos de audiencia es la "Kings League",
 Además sucedieron en estos mismo dias otros sucesos como la presentación de la Velada del Año 3 de ibai y en anuncio de la partición de AuronPlay en los "Squid Craft Games".
 
 
-2.  ¿Cuales son las categorías más vistas y en las que más horas de directo se han realizado?
+## 2.  ¿Cuales son las categorías más vistas y en las que más horas de directo se han realizado?
 
 ![ej2](https://user-images.githubusercontent.com/116378134/232343580-a8244379-3bc9-4064-9463-c7d0d4f84fa2.PNG)
 
@@ -29,14 +29,14 @@ En el primer grafico de barras observamos que las categorias más vistas según 
 
 Por otro lado tenemos que el juego con más horas emitidas es Fortnite, es normal ya que este tiene una popularidad global, es muy facil acceder a este desde cualquier plataforma. Si nos fijamos en el ranking no encontramos la categoria de sports, esto nos hace pensar que su gran cantidad de viewers viene dada dada principalmente de la Kings League.
 
-3. ¿Como han evolucionado (captura a captura) estas categorias a lo largo del mes?
+## 3. ¿Como han evolucionado (captura a captura) estas categorias a lo largo del mes?
 
 ![ej3](https://user-images.githubusercontent.com/116378134/232344538-fffdc906-97a2-4b72-927d-8deec6b7f9fa.PNG)
 
 A excepción de sports que ha dado picos en los días que se han realizado eventos de la kings league, el resto de categorias vemos que han sido relativamente estables en cuanto a viewers a lo largo del mes.
 
 
-4. ¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?
+## 4. ¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?
 
 Para distribuir los streamers por volumenes de audiencia y horas realizadas los clasifique según audiencia: baja < 10000 viewers, media < 50000 viewers y alta todo lo demás. Y por horas < 10 horas como pocas, menos de 50 moderadas y todo lo demás muchas. A partir de esto cree 3 graficos de dispersión según audiencia alta media y baja, añadiendo colores según las horas stremeadas para ver si se encuentra una relación entre horas stremeadas y cantidad de audiencia:
 
@@ -52,7 +52,7 @@ Por otro lado con una audiencia media observamos diferentes tendencias, no se ob
 
 Por ultimo en el grafico de audiencia baja vemos 3 columnas completas a la izquierda del grafico, cosa que nos da a entender que en principio no existe una relación de horas con cantidad de viewers, pero si nos fijamos en como transcurre el resto del grafico vemos una linea ascendiente, llegando sobre los 3k viewers y las 650 horas, sobre esto podemos deducir que para audiencias bajas la cantidad de horas emitidas puede llegar a influir algo.
 
-5. ¿Cuál ha sido la evolución (captura a captura) de la desviación estándar en el volúmen de espectadores? ¿En qué momentos las audiencias se encuentran más polarizadas y en qué momentos la distribución es más uniforme?
+## 5. ¿Cuál ha sido la evolución (captura a captura) de la desviación estándar en el volúmen de espectadores? ¿En qué momentos las audiencias se encuentran más polarizadas y en qué momentos la distribución es más uniforme?
 
 
 ![ej5](https://user-images.githubusercontent.com/116378134/232343593-68151b7a-b6e2-474c-9ada-d30aa4009c2b.PNG)
