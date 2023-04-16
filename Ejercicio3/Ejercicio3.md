@@ -15,6 +15,7 @@ Además sucedieron en estos mismo dias otros sucesos como la presentación de la
 ![ej2](https://user-images.githubusercontent.com/116378134/232343580-a8244379-3bc9-4064-9463-c7d0d4f84fa2.PNG)
 
 
+![ej2-2](https://user-images.githubusercontent.com/116378134/232344217-83661102-86ed-4ae9-9f7c-ab03f9f5e28a.PNG)
 
 3. ¿Como han evolucionado (captura a captura) estas categorias a lo largo del mes?
 
