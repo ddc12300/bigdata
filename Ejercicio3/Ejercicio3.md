@@ -6,18 +6,18 @@ Este análisis se basa en datos obtenidos de la API de Twitch correspondientes a
 
 ![ej1](https://user-images.githubusercontent.com/116378134/232343563-4efd29cb-3b30-4096-bfbf-a466a6f22f2b.PNG)
 
-Durante el mes de febrero, se ha observado una clara tendencia ascendente en la evolución de espectadores en la plataforma de streaming. Esta tendencia se ha mantenido regular durante todo el mes, pero lo que realmente llama la atención son los picos de audiencia que se producen en determinados momentos, especialmente en los los últimos días del mes.
+Durante el mes de febrero, se ha observado una clara tendencia ascendente en la evolución de espectadores en la plataforma de streaming. Esta tendencia se ha mantenido regular durante todo el mes, pero lo que realmente llama la atención son los picos de audiencia que se producen en determinados momentos, especialmente en los últimos días del mes.
 
 Uno de los principales motivos de estos picos de audiencia es la "Kings League", una liga de fútbol llevada a cabo en twitch. Esta competición ha conseguido atraer a un gran número de espectadores, alcanzando el mayor pico del mes el día 26 de febrero. En este día, el famoso deportista Ronaldinho Gaúcho se unió al equipo de Ibai Llanos, Porcinos FC, lo que generó un gran interés entre los usuarios.
 
-Además sucedieron en estos mismo dias otros sucesos como la presentación de la Velada del Año 3 de ibai y en anuncio de la partición de AuronPlay en los "Squid Craft Games".
+Además, sucedieron en estos mismos días otros sucesos como la presentación de la Velada del Año 3 de ibai y en anuncio de la partición de AuronPlay en los "Squid Craft Games".
 
 
 ## 2.  ¿Cuales son las categorías más vistas y en las que más horas de directo se han realizado?
 
 ![ej2](https://user-images.githubusercontent.com/116378134/232343580-a8244379-3bc9-4064-9463-c7d0d4f84fa2.PNG)
 
-En el primer grafico de barras observamos que las categorias más vistas según cantidad de viewers son las siguientes:
+En el primer gráfico de barras observamos que las categorías más vistas según cantidad de viewers son las siguientes:
 
 - Just Chatting: Esta categoría es la favorita de los espectadores debido a su versatilidad. Los streamers pueden interactuar con sus seguidores y tratar diversos temas, desde noticias hasta experiencias personales. La interacción en tiempo real permite a los usuarios sentirse más conectados con los creadores de contenido y disfrutar de una experiencia más personalizada.
 - Sports: Habria que analizar si otros meses esta categoria dispone de tanta audiencia, ya que para este mes, como he comentado en el ejercicio 1 se dio a cabo varios eventos de la Kings League lo que ha producido que esta sea la segunda caterogia más vista.
@@ -71,7 +71,7 @@ Por último en el gráfico de audiencia baja vemos 3 columnas completas a la izq
 
 La evolución de la desviación estándar en el volumen de espectadores puede analizarse examinando las capturas tomadas en diferentes momentos del período en estudio. Comparando la desviación estándar mínima de 49, que se registró el 23/02, con la máxima de 8329, ocurrida el 26/02, podemos identificar las fluctuaciones en la dispersión de la audiencia a lo largo del tiempo.
 
-En términos de polarización de audiencias, los momentos en los que las audiencias están más polarizadas se corresponden con los días en que la desviación estándar es más alta. Por ejemplo, el 26/02, con una desviación estándar de 8329, indica que hubo una gran variabilidad en el volumen de espectadores, lo que sugiere que ciertos eventos o streamers atrajeron a una cantidad significativamente mayor de espectadores en comparación con otros. Esto puede deberse a eventos especiales, como la participación de Ronaldinho Gaúcho en la "Kings League" o anuncios importantes por parte de streamers populares.
+En términos de polarización de audiencias, los momentos en los que las audiencias están más polarizadas se corresponden con los días en que la desviación estándar es más alta. Por ejemplo, el 26/02, con una desviación estándar de 8329, indica que hubo una gran variabilidad en el volumen de espectadores, lo que sugiere que ciertos eventos o streamers atrajeron a una cantidad significativamente mayor de espectadores en comparación con otros. Esto puede deberse a eventos especiales, como la participación de Ronaldinho en la Kings League o anuncios importantes por parte de streamers populares.
 
 Por otro lado, los momentos en los que la distribución de audiencia es más uniforme coinciden con aquellos días en que la desviación estándar es más baja. En este caso, el 23/02, con una desviación estándar de 49, muestra una menor variabilidad en el volumen de espectadores, lo que indica que la audiencia estaba más equilibrada entre los diferentes streamers y contenidos ofrecidos en la plataforma.
 
