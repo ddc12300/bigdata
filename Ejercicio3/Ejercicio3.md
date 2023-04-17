@@ -93,5 +93,5 @@ Al analizar la distribución de los streamers según el volumen de audiencia y l
 
 Por último, al examinar la evolución de la desviación estándar en el volumen de espectadores, se pueden identificar momentos de polarización de audiencias y momentos de distribución más uniforme. Estas fluctuaciones podrían estar relacionadas con eventos especiales o anuncios importantes por parte de streamers populares.
 
-En resumen, el análisis de los datos de Twitch durante febrero ofrece una visión valiosa sobre las dinámicas de la plataforma, permitiendo identificar tendencias y patrones que podrían resultar útiles para los creadores de contenido y para la propia plataforma en su estrategia de crecimiento y consolidación en el mercado de streaming.
+El análisis de los datos de Twitch durante febrero ofrece una información valiosa sobre el comportamiento de la audiencia en la plataforma, permitiendo identificar tendencias y patrones que podrían resultar útiles para los creadores de contenido y para la propia plataforma en su estrategia de crecimiento y consolidación en el mercado de streaming. Permitiendo identificar patrones que pueden servir como base para desarrollar estrategias efectivas que permitan a los streamers aumentar su audiencia y a Twitch mantener su posición como líder en el competitivo mundo del streaming en línea.
 
