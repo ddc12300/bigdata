@@ -6,11 +6,15 @@ Este análisis se basa en datos obtenidos de la API de Twitch correspondientes a
 
 ![ej1](https://user-images.githubusercontent.com/116378134/232343563-4efd29cb-3b30-4096-bfbf-a466a6f22f2b.PNG)
 
-Durante el mes de febrero, se ha observado una clara tendencia ascendente en la evolución de espectadores en la plataforma de streaming. Esta tendencia se ha mantenido regular durante todo el mes, pero lo que realmente llama la atención son los picos de audiencia que se producen en determinados momentos, especialmente en los últimos días del mes.
+Durante el mes de febrero, se ha registrado una tendencia ascendente en el número de espectadores en la plataforma de streaming. Esta tendencia se ha mantenido constante a lo largo del mes; sin embargo, lo que realmente resalta son los picos de audiencia que ocurren en momentos específicos, especialmente en los últimos días del mes.
 
-Uno de los principales motivos de estos picos de audiencia es la "Kings League", una liga de fútbol llevada a cabo en twitch. Esta competición ha conseguido atraer a un gran número de espectadores, alcanzando el mayor pico del mes el día 26 de febrero. En este día, el famoso deportista Ronaldinho Gaúcho se unió al equipo de Ibai Llanos, Porcinos FC, lo que generó un gran interés entre los usuarios.
+Investigando noticias en internet sobre eventos relevantes que sucedieron en esos días, encontramos los siguientes acontecimientos destacados:
 
-Además, sucedieron en estos mismos días otros sucesos como la presentación de la Velada del Año 3 de ibai y en anuncio de la partición de AuronPlay en los "Squid Craft Games".
+Uno de los principales factores detrás de estos picos de audiencia es la "Kings League", una liga de fútbol llevada a cabo en Twitch. Esta competición ha logrado atraer a un gran número de espectadores, alcanzando su máximo pico el 26 de febrero. En ese día, el famoso deportista Ronaldinho Gaúcho se unió al equipo de Ibai Llanos, Porcinos FC, generando un gran interés entre los usuarios.
+
+Además, en esos mismos días ocurrieron otros eventos relevantes, como la presentación de la Velada del Año 3 de Ibai el 27 de febrero y el regreso de AuronPlay a Twitch después de un tiempo sin emitir, anunciando su participación en la serie Squid Craft Games 2 el 28 de febrero.
+
+Estos acontecimientos han contribuido a los picos de audiencia observados en la plataforma durante el mes de febrero, demostrando el poder de atracción de eventos especiales, competiciones y la participación de personalidades conocidas en el ámbito del streaming. La colaboración entre estos elementos parece un factor clave para mantener el interés de la audiencia y generar un mayor engagement.
 
 
 ## 2.  ¿Cuales son las categorías más vistas y en las que más horas de directo se han realizado?
@@ -27,7 +31,11 @@ En el primer gráfico de barras observamos que las categorías más vistas segú
 
 ![ej2-2](https://user-images.githubusercontent.com/116378134/232344217-83661102-86ed-4ae9-9f7c-ab03f9f5e28a.PNG)
 
-Por otro lado, tenemos que el juego con más horas emitidas es Fortnite, es normal, ya que este tiene una popularidad global, es muy fácil acceder a este desde cualquier plataforma. Si nos fijamos en el ranking no encontramos la categoria de sports, esto nos hace pensar que su gran cantidad de viewers viene dada principalmente de la Kings League.
+Por otro lado, las categorías con más horas de transmisión en Twitch son Fortnite, VALORANT, Just Chatting, League of Legends y Minecraft, debido a su popularidad, accesibilidad, naturaleza competitiva o creativa, y la posibilidad de interactuar con espectadores y compartir experiencias. Estos factores motivan a los streamers a dedicar más horas a la transmisión en estas categorías.
+
+Además, eventos especiales, torneos, y actualizaciones constantes en estos juegos ayudan a mantener el interés de la audiencia y fomentan la participación de los streamers. La combinación de estos elementos contribuye a la alta cantidad de horas de transmisión en estas categorías, consolidando su presencia en la plataforma Twitch.
+
+Si nos fijamos en el ranking no encontramos la categoria de sports, esto nos hace pensar que su gran cantidad de viewers viene dada principalmente de la Kings League.
 
 ## 3. ¿Como han evolucionado (captura a captura) estas categorias a lo largo del mes?
 
