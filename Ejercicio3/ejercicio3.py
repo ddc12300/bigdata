@@ -110,8 +110,7 @@ df5 = pd.read_csv("feb_23_es_simple.csv", sep="\t", usecols=["captured_at", "vie
 # Cambio tipo de dato captured_at
 df5["captured_at"] = pd.to_datetime(df5["captured_at"])
 
-# Agrupo los datos por la columna "captured_at" y calculo la desviación estándar de espectadores
-# Con la función .std() calculo la desviación estándar de la columna viewer_count
+# Agrupo los datos por la columna "captured_at" y calculo la desviación estándar de espectadores (columna viewer_count) con la función .std() 
 desviacion_espectadores_df = df5.groupby("captured_at")["viewer_count"].std().reset_index()
 desviacion_espectadores_df.to_csv("desviacion_espectadores.csv", index=False)
 
