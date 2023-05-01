@@ -47,5 +47,6 @@ Este informe presenta un análisis de la conversación social en Twitter sobre l
 
 ### B. Combinado de datos y Gephi
 
-![gephi](https://user-images.githubusercontent.com/116378134/235545501-b73630e6-5e2f-4a9b-a3fe-d539896074da.png)
+![gephiii](https://user-images.githubusercontent.com/116378134/235545785-efb50f76-d011-47fd-8dc8-028d3c84dd34.PNG)
+
 
