@@ -16,7 +16,6 @@ Este informe presenta un análisis de la conversación social en Twitter sobre l
 ![cantidad menciones usuario](https://user-images.githubusercontent.com/116378134/235542453-767e88ef-c6db-4c70-a616-5e72eb572ad6.PNG)
 
 
-
 ¿Qué usuarios son más activos?
 
 ![usuarios más activos general](https://user-images.githubusercontent.com/116378134/235542471-8c27aae2-8e2d-4e92-8399-7423d81e4397.PNG)
@@ -29,6 +28,10 @@ Este informe presenta un análisis de la conversación social en Twitter sobre l
 
 
 ¿Qué temas destacan?
+
+![twets candidatos con más mg](https://user-images.githubusercontent.com/116378134/235547173-1af8f803-ef48-4f64-8399-7601ea1eb5ec.PNG)
+
+![Tweet de candidatos con mas rt](https://user-images.githubusercontent.com/116378134/235547455-d1eeea11-709d-4ffa-a7f3-fc161075e441.PNG)
 
 
 
