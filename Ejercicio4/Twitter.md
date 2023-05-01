@@ -41,6 +41,7 @@ Este informe presenta un análisis de la conversación social en Twitter sobre l
 
 ![tw mg](https://user-images.githubusercontent.com/116378134/235543635-93b7c54f-4789-4dfa-b936-c311fbfb2cf9.PNG)
 
+![tweet mas rt](https://user-images.githubusercontent.com/116378134/235547593-2c812611-e9ca-4aca-9c50-80093a0fe011.PNG)
 
 
 ¿En que idiomas se escriben los tweets?
