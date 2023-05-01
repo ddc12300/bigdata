@@ -23,7 +23,12 @@ Este informe presenta un análisis de la conversación social en Twitter sobre l
 
 
 
-¿Cuál es la actividad de cada candidato en sus cuentas oficiales? ¿Qué temas destacan?
+¿Cuál es la actividad de cada candidato en sus cuentas oficiales? 
+
+![candidatos mas activos](https://user-images.githubusercontent.com/116378134/235545054-5db2ba92-0f54-4853-973a-8c47cb8ab68a.PNG)
+
+
+¿Qué temas destacan?
 
 
 
@@ -38,3 +43,9 @@ Este informe presenta un análisis de la conversación social en Twitter sobre l
 ¿En que idiomas se escriben los tweets?
 
 ![Idioma tweets](https://user-images.githubusercontent.com/116378134/235542425-9cbd17c0-745d-4b29-836f-152f89ea1ca3.PNG)
+
+
+### B. Combinado de datos y Gephi
+
+![gephi](https://user-images.githubusercontent.com/116378134/235545501-b73630e6-5e2f-4a9b-a3fe-d539896074da.png)
+
