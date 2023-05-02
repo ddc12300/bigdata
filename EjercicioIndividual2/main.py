@@ -15,7 +15,7 @@ for archivo in glob("api_responses/*.json"):
     with open(archivo, "r") as f:
         respuesta_json = json.load(f)
 
-        # Extraigo los tweets y los usuarios del JSON
+        # Extraigo todos los tweets y los usuarios del JSON
         tweets = respuesta_json["data"]
         usuarios = respuesta_json["includes"]["users"]
 
@@ -26,19 +26,26 @@ for archivo in glob("api_responses/*.json"):
             followers_count = None
 
             # Busco el nombre de usuario y el recuento de seguidores para author_id
+            # Bucle para cada usuario en usuarios (extraido linea 20)
             for usuario in usuarios:
+                # si el id coincide guardo variable username para saber usuario y cantidad seguidores
                 if usuario["id"] == author_id:
                     username = usuario["username"]
                     followers_count = usuario["public_metrics"]["followers_count"]
+                    # salgo del bucle
                     break
 
             # Extraigo hashtags
             hashtags = []
+            # Compruebo si el tweet contiene la clave "entities" y si "hashtags" se encuentra dentro de "entities"
             if "entities" in tweet and "hashtags" in tweet["entities"]:
+                # Extrae todos los hashtags del tweet y los guarda en la lista 'hashtags'
                 hashtags = [hashtag["tag"] for hashtag in tweet["entities"]["hashtags"]]
 
             # Añadir hashtags y tweet_id a hashtags_datos
+            # Itero sobre la lista de hashtags
             for hashtag in hashtags:
+                # Creo un diccionario con el tweet_id y el hashtag y lo añado a la lista 'hashtags_datos'
                 hashtags_datos.append({"tweet_id": tweet["id"], "hashtag": hashtag})
 
             # Creo un diccionario con la información procesada del tweet
@@ -83,7 +90,11 @@ df = pd.DataFrame(mis_datos)
 # Reemplazar los saltos de línea en la columna 'text' con un espacio
 df['text'] = df['text'].str.replace('\n', ' ').replace('\r', ' ')
 
-# Guardar el DataFrame en un archivo CSV utilizando el carácter de tabulación '\t' como delimitador
+# Guardo el DataFrame 'df' en un archivo CSV con el nombre 'tweets.csv'
+# index=False: No incluir el índice del DataFrame en el archivo CSV
+# sep='\t': Utilizar el carácter de tabulación '\t' como delimitador de columnas
+# quotechar='"': Utilizar comillas dobles para encerrar valores que contengan caracteres especiales
+# quoting=csv.QUOTE_MINIMAL: Escapar solo los caracteres que deben estar entre comillas
 df.to_csv("tweets.csv", index=False, sep='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
 # Extraigo menciones y las guardo en un archivo CSV para Gephi
@@ -93,7 +104,7 @@ df.to_csv("tweets.csv", index=False, sep='\t', quotechar='"', quoting=csv.QUOTE_
 # Cada elemento de la lista será una tupla que contiene el nombre de usuario del autor del tweet (Source) y el nombre de usuario de la mención (Target).
 edges = []
 
-# Itero sobre cada fila del dataframe creado anteriormente
+# Itero sobre cada fila del dataframe creado anteriormente con la función de pandas iterrows
 for _, fila in df.iterrows():
     # Extraigo el nombre de usuario del autor del tweet de la fila actual y lo guardo en la variable 'user'
     user = fila["username"]
@@ -106,6 +117,7 @@ for _, fila in df.iterrows():
         edges.append((user, mention))
 
 # Creo un DataFrame con las relaciones de menciones y lo guardo en un archivo CSV
+# cambio nombre columnas para adaptar para gephi
 edges_df = pd.DataFrame(edges, columns=["Source", "Target"])
 edges_df.to_csv("edges_gephi.csv", index=False)
 
