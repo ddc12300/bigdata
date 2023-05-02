@@ -111,13 +111,24 @@ Por otro lado se observa que PareraEva es la candidata con más retweets. Sin em
 
 ![tw mg](https://user-images.githubusercontent.com/116378134/235543635-93b7c54f-4789-4dfa-b936-c311fbfb2cf9.PNG)
 
+Es importante resaltar que el tweet con más me gusta y retweets es el mismo y pertenece a WillyTolerdo, una cuenta paródica de Willy Toledo. Su contenido se centra en criticar a la izquierda mediante el uso de la ironía, lo cual parece estar atrayendo a un gran número de audiencia. 
+
+Este tweet en particular comenta una frase de Yolanda Díaz dirigida a Ada Colau (se incluye el tweet a continuación). 
+
+El contenido de este tweet se repite en otros con muchos me gusta y retweets, que también critican a Ada Colau y la situación en la que se encuentra Barcelona bajo su mandato. 
+
+Cabe destacar que también encontramos tweets en inglés y alemán que critican a Ada Colau.
+
 ![tweet mas rt](https://user-images.githubusercontent.com/116378134/235547593-2c812611-e9ca-4aca-9c50-80093a0fe011.PNG)
 
 
 ¿En que idiomas se escriben los tweets?
 
-![Idioma tweets](https://user-images.githubusercontent.com/116378134/235542425-9cbd17c0-745d-4b29-836f-152f89ea1ca3.PNG)
+![langg](https://user-images.githubusercontent.com/116378134/235736683-7f040118-894d-40c5-9ae2-282c359be5d8.PNG)
 
+Podemos observar que la mayoría de los tweets están escritos en español, seguido del catalán, que es la segunda lengua oficial de Barcelona. Tal como mencioné anteriormente, también encontramos tweets en otros idiomas como inglés, alemán, neerlandés, portugués, francés, entre otros. 
+
+Cabe añadir que el cuarto idioma que aparece como 'zxx' corresponde a los tweets cuyo idioma no ha sido reconocido por la API.
 
 ### B. Combinado de datos y Gephi
 
