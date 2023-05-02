@@ -59,6 +59,9 @@ Los usuarios de los candidatos son los siguientes:
 
 ¿Qué temas destacan?
 
+![hastags](https://user-images.githubusercontent.com/116378134/235701825-8be856e6-d893-4241-823a-6471f5b32c07.PNG)
+
+
 ![twets candidatos con más mg](https://user-images.githubusercontent.com/116378134/235547173-1af8f803-ef48-4f64-8399-7601ea1eb5ec.PNG)
 
 ![Tweet de candidatos con mas rt](https://user-images.githubusercontent.com/116378134/235547455-d1eeea11-709d-4ffa-a7f3-fc161075e441.PNG)
