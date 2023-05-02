@@ -41,7 +41,7 @@ Los usuarios de los candidatos son los siguientes:
 
 ### A. Extracción de dataset y Tableau
 
-¿Cuál es el candidato más mencionado?
+#### ¿Cuál es el candidato más mencionado?
 
 ![cantidad menciones usuario](https://user-images.githubusercontent.com/116378134/235542453-767e88ef-c6db-4c70-a616-5e72eb572ad6.PNG)
 
@@ -59,7 +59,7 @@ Destacar por otro lado el candidato menos mencionado es gonzalodeoro.
 
 Es importante tener en cuenta que los candidatos tienen diferentes perfiles y trayectorias políticas, y que su presencia en las redes sociales puede variar en función de diversos factores, como la estrategia de comunicación, la interacción con los usuarios, la viralidad de los contenidos, entre otros.
 
-Candidatos con más seguidores (de los cuales publican)
+#### Candidatos con más seguidores (de los cuales publican)
 
 ![seguidores](https://user-images.githubusercontent.com/116378134/235714175-20e2d506-cbb2-4a4f-88c9-52f09ef253b6.PNG)
 
