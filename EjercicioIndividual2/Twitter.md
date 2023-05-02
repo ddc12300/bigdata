@@ -42,15 +42,15 @@ Los usuarios de los candidatos son los siguientes:
 
 ![cantidad menciones usuario](https://user-images.githubusercontent.com/116378134/235542453-767e88ef-c6db-4c70-a616-5e72eb572ad6.PNG)
 
-En este primer gráfico, se ha realizado un filtro para analizar a los usuarios que han mencionado a los diferentes candidatos en las redes sociales. El objetivo de este análisis es poder determinar cuál ha sido la relevancia de cada uno de los candidatos en las conversaciones que se han generado en las redes sociales.
+En este primer gráfico, se ha realizado un filtro para analizar a los usuarios que han mencionado a los diferentes candidatos en twitter. El objetivo de este análisis es poder determinar cuál ha sido la relevancia de cada uno de los candidatos en las conversaciones que se han generado.
 
 Tras el análisis de los datos, a destacar los 3 primeras puestos:
 
-Se puede observar que Ada Colau es el candidato que ha sido mencionado con mayor frecuencia por los usuarios de las redes sociales. Este hecho puede deberse al hecho de que Colau es una figura muy conocida en el ámbito político y social, gracias a su trayectoria como activista y su labor al frente del Ayuntamiento de Barcelona.
+Se puede observar que Ada Colau es el candidato que ha sido mencionado con mayor frecuencia por los usuarios de Twitter. Este hecho puede deberse al hecho de que Colau es una figura muy conocida en el ámbito político y social, gracias a su trayectoria como activista y su labor al frente del Ayuntamiento de Barcelona.
 
-En segundo lugar, encontramos a Parera Eva, que también ha sido mencionada con una frecuencia bastante elevada en las redes sociales. Este hecho puede deberse a la labor que ha realizado en el ámbito político y a su presencia en diferentes medios de comunicación.
+En segundo lugar, encontramos a Parera Eva, que también ha sido mencionada con una frecuencia bastante elevada. Este hecho puede deberse a la labor que ha realizado en el ámbito político y a su presencia en diferentes medios de comunicación.
 
-Por último, Daniel Sirera es el candidato que ha sido mencionado con menor frecuencia en las redes sociales. Este hecho puede deberse a que no cuenta con una presencia tan destacada en el ámbito político y social como los otros dos candidatos mencionados anteriormente.
+Por último, Daniel Sirera es el candidato que ha sido mencionado con menor frecuencia. Este hecho puede deberse a que no cuenta con una presencia tan destacada en el ámbito político y social como los otros dos candidatos mencionados anteriormente.
 
 Destacar por otro lado el candidato menos mencionado es gonzalodeoro.
 
@@ -76,7 +76,7 @@ Por último, es relevante mencionar que también se han encontrado cuentas de pa
 
 ![candidatos mas activos](https://user-images.githubusercontent.com/116378134/235545054-5db2ba92-0f54-4853-973a-8c47cb8ab68a.PNG)
 
-Es interesante destacar que, en el análisis de la actividad de los candidatos en las redes sociales, se observa que no todos ellos publican tweets con la misma frecuencia y regularidad. Por ejemplo, Ada Colau lleva sin publicar desde 2021, lo que puede indicar que ha decidido centrar su estrategia de comunicación en otros medios o plataformas.
+Es interesante destacar que, en el análisis de la actividad de los candidatos en Twitter, se observa que no todos ellos publican tweets con la misma frecuencia y regularidad. Por ejemplo, Ada Colau lleva sin publicar desde 2021, lo que puede indicar que ha decidido centrar su estrategia de comunicación en otros medios o plataformas.
 
 Entre los candidatos que sí publican tweets, se observa que PareraEva es la candidata con más tweets publicados, seguido de danielsirera y bashachanguerra. Es importante tener en cuenta que el número de tweets publicados no siempre refleja la calidad o la relevancia de la información que se comparte, y que la estrategia de comunicación puede variar en función de las preferencias y objetivos de cada candidato.
 
@@ -86,7 +86,7 @@ Por último, se ha observa que Xavier Trias es el candidato que menos publica.
 
 ![hastags](https://user-images.githubusercontent.com/116378134/235701825-8be856e6-d893-4241-823a-6471f5b32c07.PNG)
 
-En el análisis de los hashtags más utilizados en las publicaciones relacionadas con los candidatos en las redes sociales, se ha observado que existen algunos términos que se repiten con mayor frecuencia. Entre los hashtags más utilizados se encuentran "URGENTE", "Barcelona", "Colau", "ÚLTIMAHORA", "BCN", "Opinión", "loharemos" y "valents".
+En el análisis de los hashtags más utilizados en las publicaciones relacionadas con los candidatos, se ha observado que existen algunos términos que se repiten con mayor frecuencia. Entre los hashtags más utilizados se encuentran "URGENTE", "Barcelona", "Colau", "ÚLTIMAHORA", "BCN", "Opinión", "loharemos" y "valents".
 
 Estos hashtags pueden reflejar la importancia que tienen ciertos temas en la opinión pública y en la discusión política en la ciudad de Barcelona, como la urgencia de ciertas medidas, la situación actual de la ciudad, la figura de Ada Colau, las noticias de última hora, la opinión de los ciudadanos, entre otros.
 
