@@ -138,3 +138,17 @@ Más abajo, localizamos otra cuenta que muestra cierta oposición a Colau, pero 
 
 
 ![gephi_final](https://user-images.githubusercontent.com/116378134/235697169-b6263c75-aec8-444a-b7c0-cfab5c56813e.png)
+
+## Conclusiones
+
+En base al análisis de la interacción en Twitter sobre los candidatos a la alcaldía de Barcelona, se puede concluir que Ada Colau es la candidata más mencionada en la plataforma, lo cual puede deberse a su prominencia en la política y su trayectoria como activista. A pesar de tener menos seguidores, Daniel Sirera obtiene más "me gusta" en sus publicaciones, lo que indica una mayor interacción y compromiso de su audiencia. 
+
+El estudio también revela la importancia de los medios de comunicación y las cuentas extremistas en la difusión de información y la polarización de la opinión pública en torno a temas políticos y sociales. Además, se observa que los candidatos tienen diferentes niveles de actividad en Twitter, lo que puede reflejar distintas estrategias de comunicación y enfoques en la plataforma.
+
+Los temas de interés en la opinión pública se reflejan en los hashtags más utilizados, mencionando la urgencia de ciertas medidas, la situación actual de Barcelona y la figura de Ada Colau, entre otros. Los tweets que generan más interés suelen ser aquellos que critican a Colau y la situación en Barcelona bajo su mandato. 
+
+Por último, aunque la mayoría de los tweets están escritos en español y catalán, también se encuentran tweets en otros idiomas como inglés, alemán y francés. Esto demuestra la diversidad de la conversación y la presencia de usuarios internacionales interesados en las elecciones municipales de Barcelona.
+
+Teniendo en cuenta el análisis realizado, se puede agregar que el uso de las redes sociales, en particular Twitter, es un aspecto fundamental en la comunicación política y en la difusión de información sobre los candidatos y sus programas electorales. La plataforma permite a los candidatos interactuar con la ciudadanía y presentar sus propuestas, pero también puede ser un espacio para la crítica y la polarización.
+
+Añadir que la presencia de cuentas humorísticas y paródicas, como la de WillyTolerdo, juega un papel relevante en la conversación en Twitter. Estas cuentas pueden atraer la atención de la audiencia y generar discusiones en torno a temas políticos y sociales, utilizando el humor y la ironía como herramientas para divulgar mensajes críticos.
