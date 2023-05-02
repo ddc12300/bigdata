@@ -124,6 +124,17 @@ Podemos observar que la mayoría de los tweets están escritos en español, segu
 
 Cabe añadir que el cuarto idioma que aparece como 'zxx' corresponde a los tweets cuyo idioma no ha sido reconocido por la API.
 
-### B. Combinado de datos y Gephi
+### B. Combinación de datos y Gephi
+
+El siguiente grafo se ha creado a partir de las menciones entre usuarios en Twitter. Debido a la gran cantidad de usuarios, se ha aplicado un filtro utilizando el parámetro Ego, centrándose en la cuenta OnVasBarcelona y estableciendo un nivel de profundidad de 2. Esta cuenta se opone a Ada Colau, por lo que es natural que las cuentas más cercanas a ella tengan una mayor relación entre sí, mientras que las más alejadas tengan menos.
+
+Junto a OnVasBarcelona, encontramos la cuenta de AdaColau. Esto es esperable, ya que en la mayoría de sus tweets probablemente esté mencionando a su propio usuario.
+
+En la parte superior derecha del gráfico, encontramos al usuario previamente mencionado, 'WillyTolerdo', que es el más grande debido a la gran cantidad de menciones que ha recibido a raíz de su tweet que ha sido ampliamente retuiteado. Junto a él, encontramos otras cuentas de temática humorística como FroilLannister o ToroenReposo.
+
+Dirigiéndonos hacia el centro del gráfico, nos encontramos con cuentas de partidos políticos como la CUP, PareraEva, Esquerra, entre otros.
+
+Más abajo, localizamos otra cuenta que muestra cierta oposición a Colau, pero aparentemente con un enfoque más serio: 'Educardo54812683'.
+
 
 ![gephi_final](https://user-images.githubusercontent.com/116378134/235697169-b6263c75-aec8-444a-b7c0-cfab5c56813e.png)
