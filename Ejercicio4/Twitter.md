@@ -102,6 +102,7 @@ Seguidamente encontramos los tweets de annagrauarias, destacar que también crit
 
 ![Tweet de candidatos con mas rt](https://user-images.githubusercontent.com/116378134/235547455-d1eeea11-709d-4ffa-a7f3-fc161075e441.PNG)
 
+Por otro lado se observa que PareraEva es la candidata con más retweets. Sin embargo, es importante destacar que algunos de sus tweets más virales son bastante radicales. Por otro lado, los demás candidatos presentan una estrategia similar al criticar a su competencia y utilizar el radicalismo para destacar en Twitter. En cuanto a los retweets, los demás candidatos están bastante igualados. Estos resultados pueden ser útiles para que los candidatos revisen su estrategia de comunicación en redes sociales y ajusten su mensaje para llegar a un público más amplio.
 
 
 ¿Qué temas despiertan más interés entre los usuarios?
