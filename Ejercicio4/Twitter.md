@@ -63,7 +63,7 @@ Es importante tener en cuenta que los candidatos tienen diferentes perfiles y tr
 
 ![seguidores](https://user-images.githubusercontent.com/116378134/235714175-20e2d506-cbb2-4a4f-88c9-52f09ef253b6.PNG)
 
-
+Observamos que el usuario con más seguidores es PareraEva. Sin embargo, es interesante notar que danielsirera, a pesar de tener menos seguidores, cuenta con más "me gusta" en sus publicaciones. Por otro lado, bashachanguerra se encuentra en la última posición en cuanto a seguidores y "me gusta"
 
 ¿Qué usuarios son más activos?
 
