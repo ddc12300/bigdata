@@ -14,7 +14,7 @@ Los usuarios de los candidatos son los siguientes:
 - @annagrauarias - Cs
 - @PareraEva - Valents
 - @danielsirera - PP
-- @gonzalodeoro - Vox (no sube contenido)
+- @gonzalodeoro - Vox (no sube contenido) - (Lo he incluido en los graficos pese a que no se extrajeron datos de este)
 - @VosselerDaniel - Barcelona Ets Tu
 - @ivanguijarrov - pacma
 - @RogerMallola - PRIMÀRIES 
