@@ -21,3 +21,9 @@ Este repositorio contiene los apuntes y ejercicios de la asignatura de Big Data.
     - [Api de Spotify](https://github.com/ddc12300/bigdata/blob/main/Clase6/Clase6-ApiSpotify.md)
 7. [Clase 7](https://github.com/ddc12300/bigdata/tree/main/Clase7)
 
+---
+
+## Ejercicios Individuales
+
+- [Ejercicio 1](https://github.com/ddc12300/bigdata/tree/main/Ejercicio3)
+- [Ejercicio 2](https://github.com/ddc12300/bigdata/tree/main/EjercicioIndividual2)
