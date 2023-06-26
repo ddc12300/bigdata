@@ -1,23 +1,7 @@
 
-Las funciones utilizadas son:
+Ejercicio 2 Pandas - Clase 2
 
-pd.read_csv(): función de pandas que importa el archivo .csv como un objeto DataFrame de pandas.
-DataFrame.shape: atributo de los DataFrames de pandas que devuelve el número de filas y columnas del DataFrame.
-DataFrame.columns: atributo de los DataFrames de pandas que devuelve una lista con los nombres de las columnas del DataFrame.
-DataFrame.drop(): método de los DataFrames de pandas que elimina una o varias columnas o filas. El parámetro axis indica si se quiere eliminar columnas (axis=1) o filas (axis=0).
-Series.value_counts(): método de las Series de pandas que devuelve el número de veces que aparece cada valor único en la Serie.
-DataFrame.groupby(): método de los DataFrames de pandas que agrupa los datos por una o varias columnas.
-DataFrame.mean(): método de los DataFrames de pandas que calcula la media de los datos en un DataFrame o en una columna específica.
-DataFrame.apply(): método de los DataFrames de pandas que aplica una función a lo largo de un eje del DataFrame.
-DataFrame.loc[]: método de los DataFrames de pandas que permite acceder a un conjunto de filas y columnas de un DataFrame.
-Series.idxmax(): método de las Series de pandas que devuelve el índice (es decir, el valor en la columna del DataFrame) del valor máximo en la Serie.
-
-
-
-import pandas as pd
-
-df = 
-
+```Python
 
 import pandas as pd
 
@@ -43,11 +27,6 @@ print(f"El canal NPR ha publicado {videos_por_canal['NPR Music']} vídeos y el c
 # Calcular promedio de espectadores, comentarios y likes por canal
 promedios_por_canal = dataset.groupby('channelTitle')['viewCount', 'commentCount', 'likeCount'].mean()
 
-# hacer por round
-
-# mirar foto carlos
-
-# mirar foto clase
 
 print("El promedio de espectadores/comentarios/likes para el canal NPR es:")
 print(promedios_por_canal.loc['NPR Music'])
@@ -78,5 +57,21 @@ print(f"mas comentado del canal {mas_comentado_por_canal}")
 # Crear nuevo dataset final
 nuevo_dataset = dataset[['channelTitle', 'publishedAt', 'viewCount', 'commentCount', 'likeCount', 'espectadores_desv', 'comentarios_desv', 'likes_desv']]
 
+```
 
------------------
+
+Las funciones utilizadas son:
+
+pd.read_csv(): función de pandas que importa el archivo .csv como un objeto DataFrame de pandas.
+DataFrame.shape: atributo de los DataFrames de pandas que devuelve el número de filas y columnas del DataFrame.
+DataFrame.columns: atributo de los DataFrames de pandas que devuelve una lista con los nombres de las columnas del DataFrame.
+DataFrame.drop(): método de los DataFrames de pandas que elimina una o varias columnas o filas. El parámetro axis indica si se quiere eliminar columnas (axis=1) o filas (axis=0).
+Series.value_counts(): método de las Series de pandas que devuelve el número de veces que aparece cada valor único en la Serie.
+DataFrame.groupby(): método de los DataFrames de pandas que agrupa los datos por una o varias columnas.
+DataFrame.mean(): método de los DataFrames de pandas que calcula la media de los datos en un DataFrame o en una columna específica.
+DataFrame.apply(): método de los DataFrames de pandas que aplica una función a lo largo de un eje del DataFrame.
+DataFrame.loc[]: método de los DataFrames de pandas que permite acceder a un conjunto de filas y columnas de un DataFrame.
+Series.idxmax(): método de las Series de pandas que devuelve el índice (es decir, el valor en la columna del DataFrame) del valor máximo en la Serie.
+
+
+
