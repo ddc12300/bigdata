@@ -1,5 +1,4 @@
-
-Ejercicio 2 Pandas - Clase 2
+# Ejercicio 2 Pandas - Clase 2
 
 ```Python
 
