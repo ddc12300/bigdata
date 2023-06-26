@@ -1,3 +1,4 @@
+# Twitch a lo grande
 
 - Examinar documentos y cómo están almacenados (por ejemplo, separador es el tabulador).
 - Usar **.glob** para leer más de un documento dentro de una misma carpeta.
