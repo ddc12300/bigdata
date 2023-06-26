@@ -27,3 +27,6 @@ Este repositorio contiene los apuntes y ejercicios de la asignatura de Big Data.
 
 - [Ejercicio 1](https://github.com/ddc12300/bigdata/tree/main/Ejercicio3)
 - [Ejercicio 2](https://github.com/ddc12300/bigdata/tree/main/EjercicioIndividual2)
+
+## Ejercicio Grupal
+- [Viñarock](https://ddc12300.github.io/)
