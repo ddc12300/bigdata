@@ -1,42 +1,55 @@
-https://developer.spotify.com/documentation/web-api/reference/#/operations/get-an-album
+#API de Spotify
 
-Cada vez que hacemos una peticion 
+Web: https://developer.spotify.com/
+
+### Preparación
+
+Antes de hacer cualquier solicitud, necesitamos importar las bibliotecas y establecer las credenciales de la API de Spotify. 
 
 ```python
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-# Establece las credenciales de la API de Spotify
+# Establecer las credenciales de la API de Spotify
 SPOTIPY_CLIENT_ID = 'CLIENT_ID'
 SPOTIPY_CLIENT_SECRET = 'CLIENT_SECRET'
 
-# Autentica con las credenciales del cliente
+# Autenticarse con las credenciales del cliente
 auth_manager = SpotifyClientCredentials(SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET)
 sp = spotipy.Spotify(auth_manager=auth_manager)
+```
 
-# Obtiene las listas de reproducción públicas del usuario 'spotify'
+### Obtención de listas de reproducción
+
+Primero, vamos a obtener las listas de reproducción públicas del usuario 'spotify':
+
+```python
 playlists = sp.user_playlists('spotify')
+```
 
-# Itera sobre las listas de reproducción y las imprime
+### Mostrando las listas de reproducción
+
+A continuación, iteraremos sobre las listas de reproducción para imprimirlas.
+
+```python
 while playlists:
     for i, playlist in enumerate(playlists['items']):
-        print("%4d %s%s" % (i + 1 + playlists['offset'], playlist['uri'],  playlist['name']))
+        print("%4d %s %s" % (i + 1 + playlists['offset'], playlist['uri'],  playlist['name']))
     
-    # Verifica si hay más páginas de resultados
+    # Verificación de si hay más páginas de resultados
     if playlists['next']:
         playlists = sp.next(playlists)  # Obtiene la siguiente página de resultados
     else:
         playlists = None  # No hay más páginas de resultados
-
 ```
 
-Un graph tiene
+## Grafos y Gephi
 
-- 2 nodos que deben estar unidos por una aresta y esta aresta puede ser dirigida o no dirigida, una aresta dirigida dice que un nodo dirige hacia otro.
+Un grafo consta de dos nodos que deben estar unidos por una arista. La arista puede ser dirigida o no dirigida. Una arista dirigida indica que un nodo se dirige hacia otro.
 
-Necesito generar un fichero que diga source y target.
+Para utilizar Gephi a través de archivos CSV, necesitamos generar un archivo que incluya las columnas "source" y "target" (origen y destino).
 
-La cantidad de recomendaciones que puede hacer un nodo es el grado de salida. El tamaño del nodo hay que hacerlo según el nodo de salida, y podriamos saber que artistas recomiendan a mas artistas.
+El grado de salida de un nodo es el número de recomendaciones que puede hacer. Podemos ajustar el tamaño de un nodo según su grado de salida, lo que nos permitirá identificar fácilmente los artistas que recomiendan a más artistas.
 
-Buscar como utilizar gephi a traves de csv.
+
 
